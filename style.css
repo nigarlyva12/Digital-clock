@@ -7,7 +7,7 @@
 .hero{
     width: 100%;
     min-height: 100vh;
-    background-image: linear-gradient(to right top, #11051a, #2d1c41, #4f2e6b, #753f97, #a150c4);
+  
     color: white;
     position: relative;
 }
